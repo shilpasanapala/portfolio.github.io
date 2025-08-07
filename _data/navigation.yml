@@ -9,7 +9,7 @@
 
 main:
     
-   - title: "About"
+  - title: "About"
     url: /
 
   - title: "Portfolio"
