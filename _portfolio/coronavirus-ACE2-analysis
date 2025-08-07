@@ -27,9 +27,9 @@ Results show that while overall ACE2 conservation is high, several residues (e.g
 ![Entropy divergence](../images/entropy_divergence_plot.png)
 
 ### Jalview Visualization: Combined Alignment and Tree (Requires Jalview to open; shows conservation annotations and tree)
-[Jalview combined view](../images/jalview_alignment_tree.png)
-[Bat ACE2 Alignment (.jvp)](../files/Bat_ACE2_Exploration.jvp) 
-[Non-Bat ACE2 Alignment (.jvp)](../files/NonBat_ACE2_Exploration.jvp)
+[Jalview combined view](../images/Jalview_Combined_ExploratoryAnalysis.jvp)
+[Bat ACE2 Alignment (.jvp)](../files/Jalview_Bat_ACE2_ExploratoryAnalysis.jvp) 
+[Non-Bat ACE2 Alignment (.jvp)](../files/Jalview_NonBat_ACE2_ExploratoryAnalysis.jvp)
 
 ### Tools Used
 - R (Biostrings, msa, seqinr, ggmsa, ggplot2)
