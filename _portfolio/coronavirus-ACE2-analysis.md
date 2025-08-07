@@ -1,7 +1,7 @@
 yaml
 ---
 
-title: "Evolutionary Divergence of ACE2 Receptors in Bats and Other Mammals: Implications for Coronavirus Host Interactions
+title: "Evolutionary Divergence of ACE2 Receptors in Bats and Other Mammals: Implications for Coronavirus Host Interactions"
 excerpt: "A comparative protein analysis of ACE2 in bats vs. non-bats using R, MUSCLE, and Jalview."
 collection: portfolio
 date: 2025-08-07
