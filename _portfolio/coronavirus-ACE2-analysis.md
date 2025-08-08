@@ -1,10 +1,9 @@
 ---
-
 title: "Evolutionary Divergence of ACE2 Receptors in Bats and Other Mammals: Implications for Coronavirus Host Interactions"
 excerpt: "A comparative protein analysis of ACE2 in bats vs. non-bats using R, MUSCLE, and Jalview."
 collection: portfolio
-date: 2025-08-07
 layout: project
+date: 2025-08-07
 ---
 
 This project explores the evolutionary divergence of the ACE2 receptor — a key entry point for coronaviruses — across 10 bat and 10 non-bat species. Using R-based tools and Jalview visualizations, I assessed sequence conservation, entropy, and consensus residue shifts at 31 key positions implicated in viral binding.
