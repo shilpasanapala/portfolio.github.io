@@ -1,4 +1,3 @@
-yaml
 ---
 
 title: "Evolutionary Divergence of ACE2 Receptors in Bats and Other Mammals: Implications for Coronavirus Host Interactions"
