@@ -38,3 +38,9 @@ Results show that while overall ACE2 conservation is high, several residues (e.g
 - Jalview
 - MUSCLE for MSA
 - Elicit AI
+
+### Project Report
+
+[Download Project Report](/files/Sanapala_ACE2_Project_Report.docx)
+
+
